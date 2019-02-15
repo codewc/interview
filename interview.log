@@ -1,0 +1,32 @@
+[15/Feb/2019 14:59:43] "GET / HTTP/1.1" 200 27435
+[15/Feb/2019 15:00:21] "GET / HTTP/1.1" 200 27435
+[15/Feb/2019 15:00:24] "GET / HTTP/1.1" 200 27435
+[15/Feb/2019 15:00:31] "GET / HTTP/1.1" 200 27435
+[15/Feb/2019 15:00:41] "GET / HTTP/1.1" 200 27435
+Not Found: /favicon.ico
+[15/Feb/2019 15:00:42] "GET /favicon.ico HTTP/1.1" 404 2221
+[15/Feb/2019 15:01:03] "GET / HTTP/1.1" 200 27435
+[15/Feb/2019 15:01:04] "GET /assets/plugins/font-awesome/css/font-awesome.css HTTP/1.1" 200 35134
+[15/Feb/2019 15:01:04] "GET /assets/css/styles.css HTTP/1.1" 200 20299
+[15/Feb/2019 15:01:04] "GET /assets/images/profile-image.png HTTP/1.1" 200 32349
+[15/Feb/2019 15:01:04] "GET /assets/images/portfolio/portfolio-1.jpg HTTP/1.1" 200 26602
+[15/Feb/2019 15:01:05] "GET /assets/images/portfolio/portfolio-2.jpg HTTP/1.1" 200 24102
+[15/Feb/2019 15:01:05] "GET /assets/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 121200
+[15/Feb/2019 15:01:05] "GET /assets/plugins/jquery-1.12.4.min.js HTTP/1.1" 200 97162
+[15/Feb/2019 15:01:05] "GET /assets/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 37045
+[15/Feb/2019 15:01:06] "GET /assets/plugins/back-to-top.js HTTP/1.1" 200 3804
+[15/Feb/2019 15:01:07] "GET /assets/plugins/font-awesome/fonts/fontawesome-webfont.woff2?v=4.6.3 HTTP/1.1" 200 71896
+[15/Feb/2019 15:01:07] "GET /assets/plugins/jquery-scrollTo/jquery.scrollTo.min.js HTTP/1.1" 200 2444
+[15/Feb/2019 15:01:07] "GET /assets/plugins/easy-pie-chart/dist/jquery.easypiechart.min.js HTTP/1.1" 200 3990
+[15/Feb/2019 15:01:07] "GET /assets/plugins/imagesloaded.pkgd.min.js HTTP/1.1" 200 6949
+[15/Feb/2019 15:01:08] "GET /assets/plugins/isotope.pkgd.min.js HTTP/1.1" 200 37705
+[15/Feb/2019 15:01:08] "GET /assets/js/main.js HTTP/1.1" 200 2125
+[15/Feb/2019 15:01:08] "GET /assets/js/demo/style-switcher.js HTTP/1.1" 200 1651
+[15/Feb/2019 15:01:08] "GET /assets/images/portfolio/portfolio-3.jpg HTTP/1.1" 200 34457
+[15/Feb/2019 15:01:08] "GET /assets/images/portfolio/portfolio-4.jpg HTTP/1.1" 200 18121
+[15/Feb/2019 15:01:09] "GET /assets/images/portfolio/portfolio-5.jpg HTTP/1.1" 200 20950
+[15/Feb/2019 15:01:09] "GET /assets/images/portfolio/portfolio-6.jpg HTTP/1.1" 200 24091
+[15/Feb/2019 15:01:09] "GET /assets/images/portfolio/portfolio-7.jpg HTTP/1.1" 200 27728
+[15/Feb/2019 15:01:10] "GET /assets/images/portfolio/portfolio-8.jpg HTTP/1.1" 200 31265
+Not Found: /favicon.ico
+[15/Feb/2019 15:01:11] "GET /favicon.ico HTTP/1.1" 404 2221
